@@ -21,8 +21,8 @@ I specialize in building scalable web applications with **React**, **TypeScript*
 ---
 
 ### 🌟 Deployed Projects
-🎨 **[Paintva](https://jonathon-paintva.onrender.com)**, [Source Code](https://github.com/jonathontan/paintva) — A simple graphic design web app.
-📝 **[Note Taking](https://jonathon-notes.onrender.com)**, [Source Code](https://github.com/jonathontan/notes-taking) - A note taking web app.
+🎨 **[Paintva](https://jonathon-paintva.onrender.com)**, [Source Code](https://github.com/jonathontan/paintva) — A simple graphic design web app. <br />
+📝 **[Note Taking](https://jonathon-notes.onrender.com)**, [Source Code](https://github.com/jonathontan/notes-taking) - A note taking web app. <br />
 🏭 **[Air Quality Index](https://jonathon-aqi.onrender.com)**, [Source Code](https://github.com/jonathontan/react-air-quality-index) - A web application to display AQI and weather information using OpenWeatherMap API and Leaflet.
 
 ---
