@@ -2,7 +2,7 @@
 
 🚀 **Frontend Engineer** passionate about crafting interactive, high-performance responsive web applications.
 
-I specialize in building scalable web applications with **React**, **TypeScript**, and **Vite** — blending clean UI design with strong architecture patterns using tools like **MobX**, **Redux**, and **Material-UI**.
+I specialize in building scalable web applications with **React**, **TypeScript**, and **Vite**, developing clean UI design with strong architecture patterns using tools like **MobX**, **Redux**, and **Material-UI**.
 
 ---
 
@@ -14,8 +14,8 @@ I specialize in building scalable web applications with **React**, **TypeScript*
 ---
 
 ### 🛠 Tech Stack
-**Frontend:** React, TypeScript, Vite, MobX, Redux, Material-UI 
-**Styling:** CSS Modules, TailwindCSS, Styled Components
+**Frontend:** React, TypeScript, Vite, MobX, Redux, Material-UI <br />
+**Styling:** CSS Modules, TailwindCSS, Styled Components <br />
 **Tools & Others:** Git, Node.js, Render, Figma 
 
 ---
